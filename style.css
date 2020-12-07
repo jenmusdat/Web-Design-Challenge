@@ -1,24 +1,28 @@
-.left_image{
-    width: 400px;
-    height: 300px;
-    float: left
+.left_image {
+  width: 400px;
+  height: 300px;
+  float: left;
 }
-.right_image{
-    width: 200px;
-    height: 100px;
+.right_image {
+  width: 200px;
+  height: 100px;
 }
-.compare_left_image{
-    width:400px;
-    height:300px;
-    float: left
+.compare_image {
+  max-width: 400px;
+  max-height: 300px;
+  width: 100%;
+  height: auto;
 }
-.compare_right_image{
-    width:400px;
-    height:300px;
-    float: right
+.only_image {
+  max-width: 600px;
+  max-height: 400px;
+  width: 100%;
+  height: auto;
 }
-.only_image{
-    width:600px;
-    height:500px;
-    float: center
-    }
+.visual_image {
+  max-width: 200px;
+  max-height: 200px;
+  width: 100%;
+  height: auto;
+}
+
