@@ -25,6 +25,19 @@
   width: 100%;
   height: auto;
 }
-.background_color{
-  background: rgb(208, 196, 211)
+.weather_image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  height: 25%;
+}
+.background_color {
+  background: rgb(208, 196, 211);
+}
+.background_color2 {
+  background: rgb(19, 1, 24);
+}
+.font_color {
+  background: rgb(234, 232, 235);
 }
